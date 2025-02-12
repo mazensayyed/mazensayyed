@@ -4,18 +4,23 @@
 I'm a passionate **DevOps Engineer** with expertise in cloud computing, automation, and CI/CD. I enjoy optimizing workflows, enhancing infrastructure, and ensuring seamless deployments.
 
 ## 🛠️ Skills & Technologies
-- **Cloud Platforms:** AWS, Azure
+- **Cloud Platforms:** AWS, Microsoft Azure
+- **Operating System:** Windows, Linux
+- **AWS Services:** EC2, EKS, ECR, S3, EBS, SNS, IAM, CloudWatch, Route 53, Elastic Beanstalk, Lightsail
+- **Networking:** VPC, Subnets, NAT Gateway, Internet Gateway, Route Tables, LoadBalancer
+- **Infrastructure as Code (IaC):** Terraform, ARM Template
+- **Scripting & Configuration Languages:** Shell Scripting, HCL, Groovy, YAML, JSON
+- **Version Control:** Git, GitHub, Azure Repo
 - **Containerization & Orchestration:** Docker, Kubernetes
-- **Infrastructure as Code (IaC):** Terraform
-- **CI/CD Pipelines:** Jenkins, GitHub Actions, GitLab CI/CD
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
-- **Scripting & Automation:** Bash, Python, 
-- **Version Control:** Git, GitHub, GitLab
+- **CI/CD:** Jenkins, Azure CI-CD, GitLab CI-CD
+- **Database:** MySQL, MongoDB
+- **Monitoring:** CloudWatch, Prometheus, Grafana, ELK Stack
+- **Other Tools:** Azure Boards, Nginx, Tomcat, SonarQube, Maven, Nexus, Helm, Jira
 
 ## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/mazen-sayyed/
-- **GitHub:** https://github.com/mazensayyed
-- **Personal Website:** https://devopswithmazen.netlify.app/
+- **LinkedIn:** [Mazen Sayyed](https://www.linkedin.com/in/mazen-sayyed/)
+- **GitHub:** [mazensayyed](https://github.com/mazensayyed)
+- **Personal Website:** [devopswithmazen.netlify.app](https://devopswithmazen.netlify.app/)
 
 ---
 ### 💡 Always Learning, Always Improving!
