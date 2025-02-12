@@ -18,9 +18,9 @@ I'm a passionate **DevOps Engineer** with expertise in cloud computing, automati
 - **Other Tools:** Azure Boards, Nginx, Tomcat, SonarQube, Maven, Nexus, Helm, Jira
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Mazen Sayyed](https://www.linkedin.com/in/mazen-sayyed/)
-- **GitHub:** [mazensayyed](https://github.com/mazensayyed)
-- **Personal Website:** [devopswithmazen.netlify.app](https://devopswithmazen.netlify.app/)
+- **LinkedIn:** [https://www.linkedin.com/in/mazen-sayyed/](https://www.linkedin.com/in/mazen-sayyed/)
+- **GitHub:** [https://github.com/mazensayyed](https://github.com/mazensayyed)
+- **Personal Website:** [https://devopswithmazen.netlify.app/](https://devopswithmazen.netlify.app/)
 
 ---
 ### 💡 Always Learning, Always Improving!
