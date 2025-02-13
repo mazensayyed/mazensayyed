@@ -20,7 +20,7 @@ I'm a passionate **DevOps Engineer** with expertise in cloud computing, automati
 ## 📫 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/mazen-sayyed/](https://www.linkedin.com/in/mazen-sayyed/)
 - **GitHub:** [https://github.com/mazensayyed](https://github.com/mazensayyed)
-- **Personal Website:** [https://devopswithmazen.netlify.app/](https://devopswithmazen.netlify.app/)
+- **Personal Website:** [https://www.mazensayyed.site/](https://www.mazensayyed.site/)
 
 ---
 ### 💡 Always Learning, Always Improving!
